@@ -7,8 +7,6 @@
           <li><NuxtLink to="/">Home</NuxtLink></li>
           <li><NuxtLink to="/about">About</NuxtLink></li>
           <li><NuxtLink to="/products">Products</NuxtLink></li>
-          <li><NuxtLink to="/products/123">Products 123</NuxtLink></li>
-          <li><NuxtLink to="/products/456">Products 456</NuxtLink></li>
           <li><a href="/">Normal - Home</a></li>
           <li><a href="/about">Normal - About</a></li>
         </ul>
